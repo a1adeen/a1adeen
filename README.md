@@ -1,8 +1,9 @@
 <!-
       hi its aladeen , just a beginner 
               -!>
+              <br>
               worked on :
-              <html>
+              </html>
               {css}
               
               // will make new trading algo 
