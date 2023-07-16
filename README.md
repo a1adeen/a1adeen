@@ -2,8 +2,7 @@
       hi its aladeen , just a beginner 
               -!>
               <br>
-              worked on :
-              </html>
-              {css}
+      <div>
+      </div>
               
               // will make new trading algo 
