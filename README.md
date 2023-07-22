@@ -3,6 +3,7 @@
               -!>
               <br>
       <div>
+     ⌨️learning rn 
       </div>
               
               // will make new trading algo 
