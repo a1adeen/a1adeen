@@ -2,7 +2,7 @@
       hi its aladeen , just a beginner 
               -!>
               <br>
-      <div>
+      <div font-size = large>
      ⌨️learning rn 
       </div>
               
